@@ -17,7 +17,7 @@ cp <PATH>/visualise_convergence/* .
 **2. energy.py**
 
   * This scripts performs basic statistical analysis and plots graphs of the fluctations of the instantaneous configurational and total energy of the system at every timestep
-  * If you want to view the plots, please uncomment line 64, 79, 122 and 137
+  * If you want to view the plots, please uncomment lines 64, 79, 122 and 137
   
 ```
 #plt.show()
@@ -27,7 +27,7 @@ cp <PATH>/visualise_convergence/* .
 
 * This scripts performs basic statistical analysis and plots graphs of the fluctations of the instantaneous
 temperature and pressure of the system at every timestep
-* If you want to view the plots, please uncomment line 64 and 99
+* If you want to view the plots, please uncomment lines 64 and 99
 
 ```
 #plt.show()
