@@ -19,7 +19,8 @@ gunzip FIELD.gz
 gunzip STATIS.gz
 gunzip OUTPUT.gz
 
-cp <PATH>/converged/* .
+cp <PATH>/visualise_convergence/{*sh,*py} .
+
 
 ##########
 # ENERGY #
