@@ -11,7 +11,6 @@ This bundle of scripts aims to help determine whether or not a given DL_POLY sim
   * Make sure you set the path to your local clone of this repo within gogoconvergence.sh on line 22:
 ```
 cp <PATH>/visualise_convergence/* .
-
 ```
 
 **2. energy.py**
